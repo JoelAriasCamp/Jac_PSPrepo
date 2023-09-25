@@ -1,6 +1,6 @@
 # Proyecto DetectorIA de noticias
 
-¡Bienvenido a AI-NewsDetect! Este repositorio comparte el algoritmo que tiene como objetivo detectar si una noticia ha sido generada por inteligencia artificial o escrita por un periodista humano. 
+Este repositorio comparte el algoritmo que tiene como objetivo detectar si una noticia ha sido generada por inteligencia artificial o escrita por un periodista humano. 
 
 ![imagen](./utils/looney2.jpg)
 
