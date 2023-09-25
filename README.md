@@ -29,5 +29,8 @@ Puedes usar AI-NewsDetect de forma sencilla:
 4. Obtén un informe completo que te ayudará a determinar la autenticidad de la noticia.
 
 
+Puedes encontrar más información en [nuestro sitio web](www.google.com)
+
+
 
 
