@@ -5,7 +5,7 @@
 
 Aprendiendo a usar Markdown
 
-![imagen](./utils/looney2.jpg)
+![imagen](./utils/Markdown.png)
 
 En este repositorio se está practicando con markdown, y se seguira con python. 
 
