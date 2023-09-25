@@ -1,6 +1,6 @@
 # Proyecto DetectorIA de noticias
 
-¡Bienvenido a AI-NewsDetect! Este repositorio es el hogar de nuestro revolucionario algoritmo que tiene como objetivo detectar si una noticia ha sido generada por inteligencia artificial o escrita por un periodista humano. ¡Explora nuestro proyecto y descubre cómo funciona esta tecnología innovadora!
+¡Bienvenido a AI-NewsDetect! Este repositorio comparte el algoritmo que tiene como objetivo detectar si una noticia ha sido generada por inteligencia artificial o escrita por un periodista humano. 
 
 ![imagen](./utils/looney2.jpg)
 
@@ -28,12 +28,6 @@ Puedes usar AI-NewsDetect de forma sencilla:
 
 4. Obtén un informe completo que te ayudará a determinar la autenticidad de la noticia.
 
-## Contribuye
 
-¡Nos encantaría que formaras parte de nuestra comunidad de desarrolladores y colaboraras en la mejora de AI-NewsDetect! Si tienes ideas creativas o deseas contribuir con mejoras, no dudes en hacerlo. Puedes encontrar más información en nuestro [sitio web](https://example.com/ai-newsdetect).
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
 
 
